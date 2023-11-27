@@ -1,7 +1,5 @@
 # Hi! 👋
 
-<img src="https://komarev.com/ghpvc/?username=Kodotautas&style=flat-square&color=blue" alt=""/>
-
 ```python
 class DataEngineer:
     """A class representing a Data Engineer."""
