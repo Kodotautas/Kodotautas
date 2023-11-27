@@ -8,6 +8,6 @@ I am a Data Engineer. This is my my space for relaxation, experimentation, and p
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kodotautas&theme=nord&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Kodotautas&theme=transparent&column=7" alt="GitHub Trophies" />
   </a>
 </p>
